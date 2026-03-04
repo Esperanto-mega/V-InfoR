@@ -1,7 +1,3 @@
-# V-InfoR
-
-V-InfoR is a deep learning framework dedicated to Graph Neural Networks (GNNs). Based on the repository architecture, this project focuses on GNN robustness, adversarial attacks, surrogate modeling, and explainability, leveraging Bayesian Optimization for efficient hyperparameter tuning and model evaluation.
-
 ## 📁 Repository Structure
 
 The repository is organized into the following key modules:

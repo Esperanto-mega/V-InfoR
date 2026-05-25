@@ -1,3 +1,16 @@
+- V-InFoR: A Robust Graph Neural Networks Explainer for Structurally Corrupted Graphs. NeurIPS 2023, Poster.
+<div align="center">
+   <img width="1440" height="660" alt="" src="https://github.com/user-attachments/assets/4248375a-0730-46c4-8cec-a0a335cf508b" />
+</div>
+
+- As illustrated in Figure 1, based on whether the prediction of the downstream task (e.g., graph classification) is changed, the structural corruptions of a graph can be categorized into minor corruptions and severe corruptions. 
+
+<div align="center">
+   <img width="1430" height="862" alt="" src="https://github.com/user-attachments/assets/4a8d6029-150e-4158-af7c-b8543be1629f" />
+</div>
+
+- --
+
 ## 📁 Repository Structure
 
 The repository is organized into the following key modules:

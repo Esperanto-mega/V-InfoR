@@ -95,3 +95,13 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+- --
+```bibtex
+@inproceedings{vinfor2023,
+  title={V-InFoR: a robust graph neural networks explainer for structurally corrupted graphs},
+  author={Senzhang Wang and Jun Yin and Chaozhuo Li and Xing Xie and Jianxin Wang},
+  journal={Proceedings of the International Conference on Neural Information Processing Systems},
+  year={2023}
+}
+```
